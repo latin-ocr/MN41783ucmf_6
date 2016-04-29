@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41783ucmf_6_0023.png"; bbox 0 0 1801 3306; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 304 988 563 1039">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 304 988 563 1039">
+     <span class='ocr_line' id='line_1_1' title="bbox 304 988 563 1039; baseline 0.027 -7"><span class='ocrx_word' id='word_1_1' title='bbox 304 988 563 1039; x_wconf 78' lang='lat' dir='ltr'>REVERENDISSIMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 384 1203 478 1241">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 384 1203 478 1241">
+     <span class='ocr_line' id='line_1_2' title="bbox 384 1203 478 1241; baseline 0.043 -3"><span class='ocrx_word' id='word_1_2' title='bbox 384 1203 478 1241; x_wconf 75' lang='lat' dir='ltr'><strong>DOMINO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 141 1396 721 1537">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 141 1396 721 1537">
+     <span class='ocr_line' id='line_1_3' title="bbox 141 1396 721 1485; baseline 0.028 -27"><span class='ocrx_word' id='word_1_3' title='bbox 141 1396 174 1460; x_wconf 89' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_4' title='bbox 207 1398 340 1463; x_wconf 70' lang='lat' dir='ltr'>ffflx</span> <span class='ocrx_word' id='word_1_5' title='bbox 373 1403 721 1485; x_wconf 72' lang='grc' dir='ltr'>ΚΒΕΤὸΟΗΝΙΑΗ,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 302 1498 562 1537; baseline 0.027 -9"><span class='ocrx_word' id='word_1_6' title='bbox 302 1498 368 1531; x_wconf 66' lang='lat' dir='ltr'>summ</span> <span class='ocrx_word' id='word_1_7' title='bbox 380 1501 457 1533; x_wconf 61' lang='lat' dir='ltr'>mom</span> <span class='ocrx_word' id='word_1_8' title='bbox 471 1502 562 1537; x_wconf 56' lang='lat' dir='ltr'>aomo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 290 1665 509 1727">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 290 1665 509 1727">
+     <span class='ocr_line' id='line_1_5' title="bbox 290 1665 509 1727; baseline 0.014 -4"><span class='ocrx_word' id='word_1_9' title='bbox 290 1665 292 1667; x_wconf 65' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 349 1688 509 1727; x_wconf 68' lang='lat' dir='ltr'>REVERENTIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 349 1891 668 1940">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 349 1891 668 1940">
+     <span class='ocr_line' id='line_1_6' title="bbox 349 1891 668 1940; baseline 0.028 -9"><span class='ocrx_word' id='word_1_11' title='bbox 349 1907 350 1910; x_wconf 41' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_12' title='bbox 486 1891 668 1940; x_wconf 75' lang='lat' dir='ltr'>DESPONSUM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 906 3306">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 906 3306">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 906 3306; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 906 3306; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

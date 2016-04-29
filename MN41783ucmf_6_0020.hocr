@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41783ucmf_6_0020.png"; bbox 0 0 1827 3356; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 408 1361 668 1417">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 408 1361 668 1417">
+     <span class='ocr_line' id='line_1_1' title="bbox 408 1361 668 1417; baseline -0.012 -11"><span class='ocrx_word' id='word_1_1' title='bbox 408 1361 575 1417; x_wconf 65' lang='lat' dir='ltr'><strong>herausg&#39;eg&#39;eben</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 666 1385 668 1389; x_wconf 55' lang='lat'>&lt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 235 1699 747 1820">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 235 1699 747 1820">
+     <span class='ocr_line' id='line_1_2' title="bbox 235 1699 747 1768; baseline -0.014 -10"><span class='ocrx_word' id='word_1_3' title='bbox 235 1706 263 1758; x_wconf 83' lang='lat' dir='ltr'>N.</span> <span class='ocrx_word' id='word_1_4' title='bbox 282 1701 486 1757; x_wconf 72' lang='lat' dir='ltr'><strong>Bonwetseh</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 504 1719 538 1753; x_wconf 73' lang='lat' dir='ltr'>und</span> <span class='ocrx_word' id='word_1_6' title='bbox 555 1700 583 1752; x_wconf 84' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_7' title='bbox 601 1699 747 1768; x_wconf 68' lang='lat' dir='ltr'>Seeberg’</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 325 1781 695 1820; baseline -0.008 -6"><span class='ocrx_word' id='word_1_8' title='bbox 325 1783 405 1820; x_wconf 67' lang='lat' dir='ltr'>Gijtingen.</span> <span class='ocrx_word' id='word_1_9' title='bbox 613 1781 695 1817; x_wconf 57' lang='lat' dir='ltr'>Emangea</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 222 2745 769 2799">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 222 2745 769 2799">
+     <span class='ocr_line' id='line_1_4' title="bbox 222 2745 769 2799; baseline -0.013 -8"><span class='ocrx_word' id='word_1_10' title='bbox 222 2749 426 2791; x_wconf 72' lang='lat' dir='ltr'>Dieterieh&#39;sche</span> <span class='ocrx_word' id='word_1_11' title='bbox 441 2745 769 2799; x_wconf 71' lang='lat' dir='ltr'>Verlags-Buohhandlung</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 437 2815 580 2900">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 437 2815 580 2900">
+     <span class='ocr_line' id='line_1_5' title="bbox 437 2815 580 2845; baseline -0.007 0"><span class='ocrx_word' id='word_1_12' title='bbox 437 2816 505 2845; x_wconf 70' lang='lat' dir='ltr'>Theodor</span> <span class='ocrx_word' id='word_1_13' title='bbox 513 2815 580 2845; x_wconf 71' lang='lat' dir='ltr'>Wewhffl</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 466 2862 526 2900; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 466 2862 526 2900; x_wconf 71' lang='lat'>1898,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 918 3356">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 918 3356">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 918 3356; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 918 3356; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

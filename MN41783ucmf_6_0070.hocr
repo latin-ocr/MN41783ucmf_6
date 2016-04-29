@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41783ucmf_6_0070.png"; bbox 0 0 1827 3356; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 289 1501 738 1539">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 289 1501 738 1539">
+     <span class='ocr_line' id='line_1_1' title="bbox 289 1501 738 1539; baseline 0.016 -12"><span class='ocrx_word' id='word_1_1' title='bbox 289 1501 349 1534; x_wconf 67' lang='lat' dir='ltr'>Lippert</span> <span class='ocrx_word' id='word_1_2' title='bbox 358 1503 370 1530; x_wconf 69' lang='grc' dir='ltr'>ἀ</span> <span class='ocrx_word' id='word_1_3' title='bbox 378 1501 401 1529; x_wconf 71' lang='lat'>0⁰.</span> <span class='ocrx_word' id='word_1_4' title='bbox 410 1502 432 1534; x_wconf 71' lang='grc' dir='ltr'>(θ,</span> <span class='ocrx_word' id='word_1_5' title='bbox 441 1502 594 1539; x_wconf 59' lang='grc' dir='ltr'>Ρῆῑι1εοὴεΒῑιο11ἀτ.),</span> <span class='ocrx_word' id='word_1_6' title='bbox 607 1505 693 1539; x_wconf 73' lang='lat' dir='ltr'><strong>Naumhurg</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 701 1514 714 1535; x_wconf 69' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_8' title='bbox 724 1506 738 1534; x_wconf 79' lang='lat' dir='ltr'>S.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 918 3356">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 918 3356">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 918 3356; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 918 3356; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
